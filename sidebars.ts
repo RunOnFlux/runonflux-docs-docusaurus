@@ -122,6 +122,7 @@ const sidebars: SidebarsConfig = {
                   label: 'Kaspa Nodes',
                   items: [
                     'fluxcloud/cloud/marketplace/kaspa-nodes/README',
+                    'fluxcloud/cloud/marketplace/kaspa-nodes/manual-deployment',
                   ],
                 },
               ],
