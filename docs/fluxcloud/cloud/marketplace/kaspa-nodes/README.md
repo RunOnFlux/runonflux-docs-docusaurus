@@ -13,13 +13,13 @@ Deploying a Kaspa Node on FluxCloud allows you to participate in the Kaspa netwo
 #### **Steps**
 
 1. **Access FluxCloud**
-   * Visit [home.runonflux.io](https://home.runonflux.io) and sign in or create an account.
+   * Visit [cloud.runonflux.com](https://cloud.runonflux.com) and sign in or create an account.
 
 <img src="/.gitbook/assets/Screenshot 2025-10-10 143234.jpg" alt=""/>
 
 2. **Find Kaspa Node**
 
-* Open the **Applications → Marketplace** tab.
+* Open the **Marketplace** menu tab.
 * Search for **Kaspa** and select the **KaspaNode** for Mainnet, or **KaspaTestnet** for Testnet.
   * Choose 16GB or 24GB depending on your budget, and usage of the node.
 
