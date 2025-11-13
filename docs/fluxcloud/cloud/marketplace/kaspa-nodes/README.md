@@ -25,19 +25,21 @@ Deploying a Kaspa Node on FluxCloud allows you to participate in the Kaspa netwo
 
 <img src="/.gitbook/assets/Marketplace_Applications_Kaspa.jpg" alt=""/>
 
-3. **Choose Subscription**
+3. **Choose Subscription & Instances**
 
-* Select your preferred subscription duration (starting at **$27.20 per month**).
-* Agree to the **Terms of Service**, then click **Start Launching Marketplace App**.
+* Select your preferred **subscription duration** (starting at **$27.20 per month**).
+* Choose the number of **instances** (servers running your Kaspa node).
+* Agree to the **Terms of Service**, then click the blue **Continue arrow** at the bottom.
 
 <img src="/.gitbook/assets/KaspaNode_Install1.jpg" alt=""/>
 
 4. **Specify Your Deployment Location [Optional]**
 
 * Specify if you want to only allow certain geolocations to spawn your kapsa node or forbidd certain geolocations.
-* By default your Kaspa node will be deployed on random servers globally 
-* Supported are continent, and additionally Country selection
+* By default your Kaspa node will be deployed on random servers globally .
+* Supported are continent, and additionally Country selection.
 * Save your selection by clicking the **+ Add Allowed/Forbidden** button.
+* Continue using the blue **Arrow** at the bottom.
 
 <img src="/.gitbook/assets/KaspaNode_Install2.jpg" alt=""/>  
 
@@ -47,6 +49,7 @@ Deploying a Kaspa Node on FluxCloud allows you to participate in the Kaspa netwo
   * When your application finishes launching.
   * When the primary server changes.
   * When your app expiration date is approaching.
+  * Continue using the blue **Arrow** at the bottom.
 
 6. **Launching the Application**
 
