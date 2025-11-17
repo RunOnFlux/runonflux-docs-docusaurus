@@ -92,7 +92,7 @@ If you're on Windows, you can use virtualization software like **Proxmox** or **
 🧰 Requirements:
 
 * PC with virtualization support (VT-x or AMD-V enabled in BIOS)
-* 1 VM per node (Ubuntu 20.04 recommended)
+* 1 VM per node (Ubuntu 22.04 or higher is recommended)
 * Sufficient system resources for each VM
 
 ***
